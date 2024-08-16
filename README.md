@@ -1,1 +1,1 @@
-Olá, meu nome é Vinícius e tenho estudado desenvolvimento web, eu e meus colegas estamos aprendendo passo a passo como desenvolver uma site do zero através dos cursos da Alura e orientação de nosso professor.
+Olá, meu nome é Vinícius e tenho estudado desenvolvimento web, eu e meus colegas estamos aprendendo passo a passo como desenvolver um site do zero através dos cursos da Alura e orientação de nosso professor.
